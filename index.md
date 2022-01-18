@@ -6,7 +6,6 @@
 </head>
 <body>
   <p>&amp; Hello world. This is my first website!</p>
-  <p>Lab 1 Assignment for ITMD 361
-  Hello, world! This is my first website. My name is Alma Hernandez. I am a 4th year undergrad communications and business major. I love coffee, and have a four year old pug.</p>
+  <p>Instructions: My name is Alma Hernandez. I am a 4th year communications major. I enjoy reading, and love pugs</p>
 </body>
 </html>
